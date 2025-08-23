@@ -81,7 +81,9 @@
 ---
 
 ### 🐍 Contribution Snake (Auto-animated)
-![snake gif](https://raw.githubusercontent.com/Tarunkumar0089/Tarunkumar0089/output/snake.svg)
+<p align="center">
+  <img src="https://github.com/Tarunkumar0089/Tarunkumar0089/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
