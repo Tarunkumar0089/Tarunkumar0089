@@ -79,9 +79,8 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarunkumar0089&theme=tokyo-night)
 
 ---
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Tarunkumar0089/Tarunkumar0089/output/snake.svg" alt="Snake animation" />
+## 🐍 Snake eating my contributions
+![snake gif](https://github.com/Tarunkumar0089/Tarunkumar0089/blob/output/snake.svg)
 
 
 ---
