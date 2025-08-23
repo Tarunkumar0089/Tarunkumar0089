@@ -81,9 +81,15 @@
 ---
 
 ### 🐍 Contribution Snake (Auto-animated)
+<!-- Dark/Light dono pe chalega (auto) -->
 <p align="center">
-  <img src="https://github.com/Tarunkumar0089/Tarunkumar0089/blob/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarunkumar0089/Tarunkumar0089/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarunkumar0089/Tarunkumar0089/output/snake-light.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Tarunkumar0089/Tarunkumar0089/output/snake.svg">
+  </picture>
 </p>
+
 
 ---
 
