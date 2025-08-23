@@ -81,9 +81,7 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarunkumar0089/Tarunkumar0089/output/snake.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/Tarunkumar0089/Tarunkumar0089/output/snake.svg" alt="Snake animation" />
 
 
 ---
