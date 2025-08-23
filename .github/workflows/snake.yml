@@ -1,0 +1,26 @@
+name: Generate Snake
+on:
+  schedule: [{cron: "0 */12 * * *"}]   # har 12 ghante
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Tarunkumar0089
+          outputs: dist/snake.svg
+      - name: Push snake.svg to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf .
+          mkdir -p .
+          cp dist/snake.svg snake.svg
+          git add snake.svg
+          git commit -m "Generate snake"
+          git push -f origin output
