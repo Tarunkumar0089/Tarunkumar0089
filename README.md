@@ -3,7 +3,7 @@
 
 <!-- Typing Title -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Tarun+(Tarunkumar0089)%F0%9F%91%8B;Full+Stack+Developer+%7C+JS+%7C+Node+%7C+React;I+build+clean+and+fast+web+apps" />
   </a>
 </p>
