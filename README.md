@@ -42,7 +42,7 @@
 
 <span><p align="center">
   <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Code-JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 </p></span>
 
