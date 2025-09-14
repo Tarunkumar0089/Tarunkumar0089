@@ -31,9 +31,7 @@
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar0089&layout=compact&theme=tokyonight" height="180px"/>
   </span>
-  <span>
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="180px"/>
-  </span>
+  
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar0089&layout=pie&theme=radical" height="180px"/>
   </span>
