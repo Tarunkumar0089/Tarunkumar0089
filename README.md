@@ -1,6 +1,6 @@
 ## Hi there 👋<!-- Animated Top Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=👑%20Tarun%20Sharma%20👑&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=f5f5f5&color=0:000000,100:FFD700&animation=fadeIn&desc=⚡%20Full%20Stack%20Developer%20%7C%20Innovator%20%7C%20AI%20Enthusiast%20⚡&descAlign=50&descAlignY=70" width="100%"/> 
- 
+  
 <!-- Typing Title -->
 <p align="center">
   <a href="https://git.io/typing-svg"> 
