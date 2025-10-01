@@ -80,15 +80,23 @@
 ### 🗺️ Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarunkumar0089&theme=tokyo-night)
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:tarunkumar321028@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tarun-sharma-562240324/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Tarunsharma45/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+</p>
 ---
 ## 🐍 Snake eating my contributions
 ![snake gif](https://github.com/Tarunkumar0089/Tarunkumar0089/blob/output/snake.svg)
 
-
----
-
-### 🎶 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
 
 <!-- Bottom Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
