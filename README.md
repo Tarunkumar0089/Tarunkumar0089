@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=👑%20Tarun%20Sharma%20👑&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=f5f5f5&color=0:000000,100:FFD700&animation=fadeIn&desc=⚡%20Full%20Stack%20Developer%20%7C%20Innovator%20%7C%20AI%20Enthusiast%20⚡&descAlign=50&descAlignY=70" width="100%"/>   
      
 <!-- Typing Title -->      
-<p align="center">
+<p align="center"> 
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Tarun+(Tarunkumar0089)%F0%9F%91%8B;Full+Stack+Developer+%7C+JS+%7C+Node+%7C+React;I+build+clean+and+fast+web+apps" />
   </a>
