@@ -129,18 +129,11 @@
 
 - 🥇 **Java Mastery Certificate** (HackerRank)  
 - 🧩 **Full Stack Web Development Certification**  
-- 🧠 **AI Fundamentals Badge** (Microsoft Learn)  
-- 🔥 **50 Days LeetCode Streak**  
+- 🔥 **136 Days LeetCode Streak**  
 - 🏅 **Top 5% in University Coding Challenge**
 
 ---
 
-## 🤖 AI & Future Goals
-
-- 🚀 Building a **Personal AI Assistant** using Node.js + Gemini API  
-- 💬 Learning **Machine Learning with Python**  
-- 🧠 Exploring **Neural Networks and Chatbot Development**  
-- 🌍 Aim: Become a **Software Architect + AI Engineer**
 
 ---
 
