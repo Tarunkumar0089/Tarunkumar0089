@@ -1,10 +1,10 @@
 <!-- Top Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=👑%20Tarun%20Sharma%20👑&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&color=0:6a11cb,100:2575fc&animation=fadeIn&desc=⚡%20Full%20Stack%20Developer%20%7C%20Innovator%20%7C%20AI%20Enthusiast%20⚡&descAlign=50&descAlignY=70" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=👑%20Tarun%20Sharma%20👑&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&color=0:6a11cb,100:2575fc&animation=fadeIn&desc=⚡%20Full%20Stack%20Developer%20%7C%20Innovator%20%7C%20AI%20Enthusiast%20⚡&descAlign=50&descAlignY=70" width="100%"/> -->
 
 
 
 <h1 align="center">Hi 👋, I'm Tarun Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | JavaScript Enthusiast | Problem Solver | AI Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | JavaScript Enthusiast | Problem Solver | DSA</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@+GLA+University;MERN+Stack+Developer;AI+and+Automation+Learner;Building+projects+that+impact+💡" width="100%" />
