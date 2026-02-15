@@ -4,11 +4,24 @@
 
 
 <h1 align="center">Hi 👋, I'm Tarun Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | JavaScript Enthusiast | Problem Solver | DSA</h3>
+
+<h3 align="center">
+🚀 Full Stack MERN Developer | 💻 800+ DSA Problems Solved | 🎯 3rd Year B.Tech CSE
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@+GLA+University💡" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications;Passionate+About+AI+%26+Backend+Architecture" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/Tarunkumar0089">
+    <img src="https://img.shields.io/github/followers/Tarunkumar0089?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/Tarunkumar0089">
+    <img src="https://img.shields.io/github/stars/Tarunkumar0089?label=Stars&style=social" />
+  </a>
+</p>
+
 
 ---
 
