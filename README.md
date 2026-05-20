@@ -7,7 +7,7 @@
 
 <h3 align="center">
 🚀 Full Stack MERN Developer | 💻 800+ DSA Problems Solved | 🎯 3rd Year B.Tech CSE
-</h3>
+</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Problem+Solver+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications;Passionate+About+AI+%26+Backend+Architecture" />
