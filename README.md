@@ -3,7 +3,7 @@
   
   
     
-<h1 align="center">Hi 👋, I'm Tarun Sharma</h1>
+<h1 align="center">Hi 👋, I'm Tarun Sharma</h1> 
    
 <h3 align="center">
 🚀 Full Stack MERN Developer | 💻 900+ DSA Problems Solved | 🎯 Final Year B.Tech CSE
